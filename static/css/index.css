@@ -78,6 +78,10 @@ header .navbar.animate {
     display: grid;
     color: white;
 }
+
+#hero .container {
+  margin: auto;
+}
 #hero .content.animate {
     animation: fade-left 1s ease-out;
 }
